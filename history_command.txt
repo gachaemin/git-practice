@@ -1,0 +1,131 @@
+    1  ls
+    2  cd OSS
+    3  ls
+    4  pwd
+    5  ls
+    6  cd OSS
+    7  pwd
+    8  ls
+    9  cd OSS
+   10  pwd
+   11  ls
+   12  cd OSS/transformers
+   13  pwd
+   14  ls
+   15  pwd
+   16  ed OSS/transformers
+   17  ed OSS/transformers
+   18  mkdir neuralintlab
+   19  mkdir transformers
+   20  cd OSS/transformers
+   21  pwd
+   22  ls
+   23  cd OSS/transformers/
+   24  ls
+   25  cd ..
+   26  pwd
+   27  cd OSS/transformers
+   28  pwd
+   29  ls
+   30  ls -l
+   31  cd ..
+   32  pwd
+   33  cd ..
+   34  ls -l
+   35  cd OSS
+   36  pwd
+   37  ls -l
+   38  ls -lh
+   39  clear
+   40  pwd
+   41  cd transformers
+   42  pwd
+   43  ls
+   44  pwd
+   45  ls
+   46  cd ../neuralintlab
+   47  pwd
+   48  ls
+   49  cd /Users/user/OSS/transformers
+   50  cd ../transformers
+   51  pwd
+   52  ls -l
+   53  ls -lh
+   54  cd ..
+   55  ls -lh
+   56  clear
+   57  pwd
+   58  cd transformers
+   59  ls
+   60  cp module.py backup_module.py
+   61  ls
+   62  cp -r ../neuralintlab .
+   63  ls
+   64  cd neuralintlab
+   65  ls
+   66  pwd
+   67  cd ..
+   68  pwd
+   69  ls
+   70  mv module.py new_module.py
+   71  ls
+   72  mv new_module.py ../neuralintlab
+   73  ls
+   74  cd ../neuralintlab
+   75  ls
+   76  cd ../transformers
+   77  mv neuralintlab nil
+   78  ls
+   79  pwd
+   80  cd ../neuralintlab
+   81  ls
+   82  rm new_module.py 
+   83  ls
+   84  cd ..
+   85  pwd
+   86  ls
+   87  mkdir new_directory
+   88  ls
+   89  help cd
+   90  man cp
+   91  clear
+   92  pwd
+   93  cd transformers
+   94  LS -LH
+   95  ls -lh
+   96  ls -lh > file_list.txt
+   97  cat file_list.txt
+   98  mkdir hello_world
+   99  ls -h
+  100  ls -lh
+  101  ls -lh > test.sh
+  102  ls -lh
+  103  cat file_list.txt 
+  104  cat test.sh 
+  105  ls -lh >> file_list.txt
+  106  cat file_list.txt 
+  107  cat words.txt
+  108  cat words.txt 
+  109  sort < words.txt > sorted_words.txt
+  110  cat sorted_words.txt 
+  111  ls -lh | less
+  112  ls | wc -l
+  113  echo print out the text
+  114  echo *
+  115  echo ~
+  116  ls -l --reverse --human-readable
+  117  chmod 644 words.txt
+  118  ls -lh
+  119  sudo some_command
+  120  pwd
+  121  nano myscript.sh
+  122  sh myscript.sh 
+  123  history > history_command.txt
+  124  cat history
+  125  ls
+  126  cat history_command.txt 
+  127  cat history
+  128  mkdir history
+  129  history > hstory_commend.txt
+  130  cat history
+  131  history > history_command.txt
